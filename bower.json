@@ -1,0 +1,28 @@
+{
+  "name": "ct-jquery-last-child",
+  "description": "A polyfill for :last-child",
+  "version": "1.0.1",
+  "main": "dist",
+  "license": "All rights reserved",
+  "keywords": [],
+  "authors": [
+    {
+      "name": "Dan Smith",
+      "email": "dan.smith@chrometoaster.com"
+    }
+  ],
+  "homepage": "http://github.com/chrometoasters/ct-jquery-last-child",
+  "repository": {
+    "type": "github",
+    "url": "http://github.com/chrometoasters/ct-jquery-last-child.git"
+  },
+  "dependencies": {
+    "jquery": "1.10.1"
+  },
+  "devDependencies": {},
+  "private": true,
+  "ignore": [
+    "bower_components/",
+    "dev/"
+  ]
+}
