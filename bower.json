@@ -1,7 +1,6 @@
 {
   "name": "ct-jquery-last-child",
   "description": "A polyfill for :last-child",
-  "version": "2.0.1",
   "main": "dist",
   "license": "All rights reserved",
   "keywords": [],
